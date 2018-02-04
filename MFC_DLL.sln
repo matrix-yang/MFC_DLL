@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_DLL", "MFC_DLL\MFC_DLL.vcxproj", "{56484529-87C1-4BD1-BF80-F4E92B5B29AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InjectDLL", "InjectDLL\InjectDLL.vcxproj", "{61D3B66E-1B61-461D-80E8-9CB07C528B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56484529-87C1-4BD1-BF80-F4E92B5B29AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56484529-87C1-4BD1-BF80-F4E92B5B29AC}.Debug|Win32.Build.0 = Debug|Win32
+		{56484529-87C1-4BD1-BF80-F4E92B5B29AC}.Release|Win32.ActiveCfg = Release|Win32
+		{56484529-87C1-4BD1-BF80-F4E92B5B29AC}.Release|Win32.Build.0 = Release|Win32
+		{61D3B66E-1B61-461D-80E8-9CB07C528B34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61D3B66E-1B61-461D-80E8-9CB07C528B34}.Debug|Win32.Build.0 = Debug|Win32
+		{61D3B66E-1B61-461D-80E8-9CB07C528B34}.Release|Win32.ActiveCfg = Release|Win32
+		{61D3B66E-1B61-461D-80E8-9CB07C528B34}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
